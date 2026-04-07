@@ -115,3 +115,9 @@ Yes. The pattern is agent-agnostic. Rename `CLAUDE.md` to whatever your agent re
 
 **What about embedding-based RAG?**
 You probably don't need it at first. The index-based approach (LLM reads `index.md`, drills into pages) works surprisingly well up to a few hundred pages. Add vector search when navigation by index becomes a bottleneck, not before.
+
+### Credit for llm-wiki                                                                                    
+This is an llm-wiki styled by Karpathy's tweet on April 2, 2026.                              
+                                                                                              
+Tweet link: https://x.com/karpathy/status/2039805659525644595?s=20                            
+Supporting Github Gist: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
